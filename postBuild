@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# first pass at fixing
+python -c "import nltk; nltk.download('averaged_perceptron_tagger');"
